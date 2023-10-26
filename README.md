@@ -14,8 +14,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This news homepage will be an excellent opportunity to practice your CSS Grid skills. There will be lots of tricky decisions to make and plenty of learning opportunities!
@@ -42,7 +40,7 @@ Users should be able to:
 
 ## My process
 
-My process began making all layout with HTML, then, working from top to bottom with styling for mobile layout. Next, I styled the desktop version, and finally, but not least important, I solved the mobile side menu with the hamburguer toggle. I used CSS Grid all the times even if some parts where easier to work with Flexbox. Tha idea was to practice Grid a lot.
+My process began making all layout with HTML, then, working from top to bottom with styling for mobile layout. Next, I styled the desktop version, and finally, but not least important, I solved the mobile side menu with the animated hamburguer toggle. I used CSS Grid all the times, even if some parts where easier to work with Flexbox. The idea was to practice CSS Grid a lot. I lot of fun on it.
 
 ### Built with
 
