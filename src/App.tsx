@@ -104,7 +104,7 @@ function App() {
         </section>
       </div>
       { toggleRef.current && <div className={`backdrop ${menuOpen}`}
-          onClick={() => {toggleRef.current!.checked = false}}></div>
+          onClick={resizeScreen}></div>
       }
       <div className="attribution">
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
