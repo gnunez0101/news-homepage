@@ -82,21 +82,21 @@ function App() {
 
         <section className="articles">
           <article className="article-news">
-            <img className='article-image' src="src/assets/images/image-retro-pcs.jpg" alt="" />
+            <img className='article-image' src="./src/assets/images/image-retro-pcs.jpg" alt="retro" />
             <div className="article-number">01</div>
             <div className="article-title"><a href="#">Reviving Retro PCs</a></div>
             <div className="article-text">What happens when old PCs are given modern upgrades?</div>
           </article>
           
           <article className="article-news">
-          <img className='article-image' src="src/assets/images/image-top-laptops.jpg" alt="" />
+          <img className='article-image' src="./src/assets/images/image-top-laptops.jpg" alt="laptops" />
             <div className="article-number">02</div>
             <div className="article-title"><a href="#">Top 10 Laptops of 2022</a></div>
             <div className="article-text">Our best picks for various needs and budgets.</div>
           </article>
          
           <article className="article-news">
-            <img className='article-image' src="src/assets/images/image-gaming-growth.jpg" alt="" />
+            <img className='article-image' src="./src/assets/images/image-gaming-growth.jpg" alt="gaming" />
             <div className="article-number">03</div>
             <div className="article-title"><a href="#">The Growth of Gaming</a></div>
             <div className="article-text">How the pandemic has sparked fresh opportunities.</div>
